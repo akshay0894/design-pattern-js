@@ -1,0 +1,9 @@
+Design patterns 
+
+Observer pattern 
+    1. Create a class event 
+    2 . Create a constructor having 2 properties - handlers map  as a collection and count as a 0 ; 
+    3.  Create 2 functions subscribe to add key value pair to handlers list and  unsubscribe to remove key value pair from the list 
+    4. Create 1 fire function  in which we iterate each handler functions we subscribe  
+
+    
