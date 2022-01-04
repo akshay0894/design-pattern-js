@@ -5,7 +5,9 @@
   "main": "observer-pattern.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon observer-pattern.js"
+    "start": "nodemon observable-pattern/ratgame-observerpattern-example.js",
+    "open-close": "nodemon solid-principles/ocp.js",
+    "di": "nodemon solid-principles/dependency-inversion.js"
   },
   "author": "",
   "license": "ISC",
