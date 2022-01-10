@@ -7,7 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon observable-pattern/ratgame-observerpattern-example.js",
     "open-close": "nodemon solid-principles/ocp.js",
-    "di": "nodemon solid-principles/dependency-inversion.js"
+    "di": "nodemon solid-principles/dependency-inversion.js",
+    "builder": "nodemon builder-pattern/builder-pattern.js",
+    "factory": "nodemon factory/abstract-factory.js",
+    "prototype": "nodemon prototype/prototype.js"
   },
   "author": "",
   "license": "ISC",
