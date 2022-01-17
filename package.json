@@ -10,7 +10,10 @@
     "di": "nodemon solid-principles/dependency-inversion.js",
     "builder": "nodemon builder-pattern/builder-pattern.js",
     "factory": "nodemon factory/abstract-factory.js",
-    "prototype": "nodemon prototype/prototype.js"
+    "prototype": "nodemon prototype/prototype.js",
+    "singleton": "nodemon singleton/singleton.js",
+    "composite": "nodemon composite/composite.js",
+    "decorator": "nodemon decorator/decorator.js"
   },
   "author": "",
   "license": "ISC",
